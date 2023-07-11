@@ -10,22 +10,22 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
-    {songName: "Nomoskar Bondhu, Welcome to Sonoo", filePath: "songs/1.mp3", coverPath: "covers/16.jpg"},
-    {songName: "Amake Nao Cover - Tarishi Mukherjee", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
-    {songName: "Tomay Hridmajhare Rakhibo - Rishi Panda", filePath: "songs/3.mp3", coverPath: "covers/10.jpg"},
-    {songName: "E Bhabe Golpo Hok - Rupak Tiary", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
-    {songName: "Piya Bina - Rupak Tiary", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
-    {songName: "Kano roder moto hasle na - Rishi Panda", filePath: "songs/6.mp3", coverPath: "covers/6.jpg"},
-    {songName: "Tomar Ghore Boshot Kore - Rishi Panda", filePath: "songs/7.mp3", coverPath: "covers/7.jpg"},
-    {songName: "Amar Haat Bandhibi - Rishi Panda", filePath: "songs/8.mp3", coverPath: "covers/8.jpg"},
-    {songName: "Fagun Haway Haway - Rishi Panda", filePath: "songs/9.mp3", coverPath: "covers/9.jpg"},
-    {songName: "Bhule Jeo - Rupak Tiary", filePath: "songs/10.mp3", coverPath: "covers/3.jpg"},
-    {songName: "Ami Tomakei Boley Debo - Tarishi Mukherjee", filePath: "songs/11.mp3", coverPath: "covers/11.jpg"},
-    {songName: "Mone Porle Okaron - Rupak Tiary", filePath: "songs/12.mp3", coverPath: "covers/12.jpg"},
-    {songName: "Eita Tomar Gaan - Tarishi Mukherjee", filePath: "songs/13.mp3", coverPath: "covers/13.jpg"},
-    {songName: "Takey Olpo Kachhe - Tarishi Mukherjee", filePath: "songs/14.mp3", coverPath: "covers/14.jpg"},
-    {songName: "Hariye Giyechhi - Tarishi Mukherjee", filePath: "songs/15.mp3", coverPath: "covers/15.jpg"},
-    {songName: "Tomake Na Lekha Chithita - Rupak Tiary", filePath: "songs/16.mp3", coverPath: "covers/1.jpg"},
+    {songName: "Welcome to Sonoo", filePath: "songs/1.mp3", coverPath: "covers/16.jpg"},
+    {songName: "Amake Nao - Tarishi", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
+    {songName: "Hridmajhare Rakhibo - Rishi", filePath: "songs/3.mp3", coverPath: "covers/10.jpg"},
+    {songName: "E Bhabe Golpo Hok - Rupak", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
+    {songName: "Piya Bina - Rupak", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
+    {songName: "Kano roder moto hasle na - Rishi", filePath: "songs/6.mp3", coverPath: "covers/6.jpg"},
+    {songName: "Tomar Ghore Boshot - Rishi", filePath: "songs/7.mp3", coverPath: "covers/7.jpg"},
+    {songName: "Amar Haat Bandhibi - Rishi", filePath: "songs/8.mp3", coverPath: "covers/8.jpg"},
+    {songName: "Fagun Haway Haway - Rishi", filePath: "songs/9.mp3", coverPath: "covers/9.jpg"},
+    {songName: "Bhule Jeo - Rupak", filePath: "songs/10.mp3", coverPath: "covers/3.jpg"},
+    {songName: "Ami Tomakei - Tarishi", filePath: "songs/11.mp3", coverPath: "covers/11.jpg"},
+    {songName: "Mone Porle Okaron - Rupak", filePath: "songs/12.mp3", coverPath: "covers/12.jpg"},
+    {songName: "Eita Tomar Gaan - Tarishi", filePath: "songs/13.mp3", coverPath: "covers/13.jpg"},
+    {songName: "Takey Olpo Kachhe - Tarishi", filePath: "songs/14.mp3", coverPath: "covers/14.jpg"},
+    {songName: "Hariye Giyechhi - Tarishi", filePath: "songs/15.mp3", coverPath: "covers/15.jpg"},
+    {songName: "Tomake Na Lekha - Rupak", filePath: "songs/16.mp3", coverPath: "covers/1.jpg"},
 ]
 
 songItems.forEach((element, i)=>{ 
