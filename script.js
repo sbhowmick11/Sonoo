@@ -15,7 +15,7 @@ let songs = [
     {songName: "Hridmajhare Rakhibo - Rishi", filePath: "songs/3.mp3", coverPath: "covers/10.jpg"},
     {songName: "E Bhabe Golpo Hok - Rupak", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
     {songName: "Piya Bina - Rupak", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
-    {songName: "Kano roder moto hasle na - Rishi", filePath: "songs/6.mp3", coverPath: "covers/6.jpg"},
+    {songName: "Kano roder moto - Rishi", filePath: "songs/6.mp3", coverPath: "covers/6.jpg"},
     {songName: "Tomar Ghore Boshot - Rishi", filePath: "songs/7.mp3", coverPath: "covers/7.jpg"},
     {songName: "Amar Haat Bandhibi - Rishi", filePath: "songs/8.mp3", coverPath: "covers/8.jpg"},
     {songName: "Fagun Haway Haway - Rishi", filePath: "songs/9.mp3", coverPath: "covers/9.jpg"},
