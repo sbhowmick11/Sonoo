@@ -137,6 +137,8 @@ nav ul li{
     padding: 9px;
     text-align: center;
     box-shadow: 0 -1px 4px rgb(28, 158, 210);
+    font-size: 8px;
+  font-family: 'Varela Round', sans-serif;
 }
 
 .footer p {
