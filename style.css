@@ -25,6 +25,15 @@ nav ul{
     height: 65px;
     background-color: skyblue;
     color: white;
+    font-size:2.3vw;
+}
+@media(max-width:700px)
+{
+    nav ul
+    {
+        font-size:4vw;
+      
+    }
 }
 
 nav ul li{
